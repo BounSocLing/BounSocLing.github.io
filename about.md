@@ -4,10 +4,19 @@ title: About
 permalink: /about/
 ---
 <p>
-I am currently a Sr. Software Engineer at <a href="https://www.build.com" target="_blank">Build.com</a>. I consider myself as a full-stack developer and equally excited working on both ends. I like complex problem sovling and coming up with an efficient solution.I am passionate about learning new technologies and implementing them. 
+
+**Konstantinos**: Hi, I am Konstantinos. I graduated from Salzburg. I really like coffee.
+
+**Utku**: I am a linguistics MA student.
+
+**Umut**: I am a linguistics PhD student.
+
 </p>
 
 Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a>
 
-## Resume
+
+We can add whatever we want here. Google docs, pdfs, slide. Anything basically.
+<!-- ## Resume
 <iframe src="https://drive.google.com/open?id=18xHF4SRS3pEAnxkowZhucR2UFtVALNuD" width="100%" height="900"></iframe>
+-->

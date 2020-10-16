@@ -4,4 +4,4 @@ title: Projects
 permalink: /projects/
 ---
 
-Few of my projects. Currently doing more in backend, focused in Python and Django.
+Our data, treebanks, annotations, and statistical models can be found here. It may be better to change the name to something like Data? I dont know.
