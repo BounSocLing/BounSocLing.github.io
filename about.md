@@ -10,11 +10,11 @@ permalink: /about/
 
 
 
-**Utku**: I am a linguistics MA student.
+<b>Utku</b>: I am a linguistics MA student.
 
 
 
-**Umut**: I am a linguistics PhD student.
+<b>Umut</b>: I am a linguistics PhD student.
 
 </p>
 
