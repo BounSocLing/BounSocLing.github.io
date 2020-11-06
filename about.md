@@ -21,7 +21,7 @@ permalink: /about/
 Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a>
 
 
-We can add whatever we want here. Google docs, pdfs, slide. Anything basically.
+We can add whatever we want here. Google docs, pdfs, slides. Anything basically.
 
 <!-- ## Resume
 <iframe src="https://drive.google.com/open?id=18xHF4SRS3pEAnxkowZhucR2UFtVALNuD" width="100%" height="900"></iframe>
